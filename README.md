@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer | Tech Enthusiast | Problem Solver</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=008080&width=500&lines=Transforming+Ideas+Into+Reality!+One+Digital+Experience+At+A+Time!👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=008080&width=500&lines=Welcome+to+my+GitHub!+🚀;I+love+building+cool+stuff!+💡;Coding+my+way+through+life!+👨‍💻" alt="Typing SVG" />
 </p>
 
 ---
@@ -64,4 +64,3 @@
 </p>
 
 ---
-
