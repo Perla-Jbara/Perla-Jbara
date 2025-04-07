@@ -10,7 +10,7 @@
 ### 🚀 About Me  
 - 👩‍🎓 I have a Bachelor of Computer and Information Sciences in Application Development!
 - 🔭 I’m currently working on an exciting desktop and mobile application!
-- 🌱 I’m currently learning all about **.Net Maui**!  
+- 🌱 I’m currently learning all about **Python**!  
 
 ---
 
